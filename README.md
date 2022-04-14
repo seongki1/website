@@ -9,4 +9,4 @@ To view the website, click on the link. <br>
 
 
 ## screenshot
-![Screenshot] ()
+![Screenshot](https://github.com/khalidadamu/apple-website-clone/blob/main/screenshots/apple%20clone.png)
