@@ -1,4 +1,4 @@
-# Apple landing page Clone
+# Apple Landing Page Clone
 
 
 ## introduction
