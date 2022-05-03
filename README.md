@@ -4,7 +4,7 @@
 ## introduction
 This is a apple clone repository. The frontend of the Apple website was built using HTML, CSS, and javaScript. This was a great little project i enjoyed working on.🙂
 
-Preview Demo <br>
+## Preview Demo <br>
 [Click me 😄](https://appleclone01.netlify.app) 
 
 
